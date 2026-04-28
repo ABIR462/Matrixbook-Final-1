@@ -7,7 +7,7 @@ const FEATURES = [
   {
     icon: Wand2,
     title: "AI Code Generation",
-    desc: "Codestral writes complete, production-quality HTML, CSS, and JavaScript from a single sentence.",
+    desc: "Mistral writes complete, production-quality HTML, CSS, and JavaScript from a single sentence.",
     color: "text-violet-400",
     bg: "bg-violet-500/10 border-violet-500/20",
   },
